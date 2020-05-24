@@ -8,6 +8,6 @@ Participar desse programa, além de aprofundar meus conhecimentos em HTML5 e CSS
 > https://workshop-reprograma-aline-araujo.netlify.app/
 
 ### Participante: 
-|name|email|present|receiveCertificate|course|
-| -------- | -------- | -------- |-------- | -------- |
+|name|email|course|
+| -------- | -------- | -------- |
 |Aline de Araújo|alineprofissional@outlook.com|Workshop Reprograma|
